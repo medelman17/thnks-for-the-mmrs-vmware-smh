@@ -1,8 +1,4 @@
-Here's a snarky but fact-based breakdown of **VMUG Advantage Licensing: Then vs. Now**, perfect for your README:
-
----
-
-# 🚨 Why We Had to Yeet vSphere for Proxmox 🚨
+# 🚨 Why I Had to Yeet vSphere for Proxmox 🚨
 
 ### A Cautionary Tale of Licensing Greed and Corporate Shenanigans
 
